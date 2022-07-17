@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.content{
+  width: 100wh;
+  height: 100vh;
+}
+#color-theme {
+  background-color: #ffffff;
+}
+
+#peach{
+  color: #F1BF98;
+}
+#nyanza{
+  color: #E1F4CB;
+}
+#laurelGreen{
+  color: #BACBA9;
+}
+#nickel{
+  color: #717568;
+}
+#riffelGreen{
+  color: #3F4739;
+}
